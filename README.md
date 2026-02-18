@@ -9,11 +9,11 @@
 
 ### Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Books I Read in 2025](http://blog.calebjay.com/posts/books-2025/)
 - [A Couple More Interviews](http://blog.calebjay.com/posts/more-interviews/)
 - [In Defense of Pen and Paper](http://blog.calebjay.com/posts/in-defense-of-pen-and-paper/)
 - [Don&#39;t Download Apps](http://blog.calebjay.com/posts/dont-download-apps/)
 - [My 2025 Life Stack - Or, Why I Haven&#39;t Opened Emacs in Two Months](http://blog.calebjay.com/posts/my-new-life-stack/)
-- [How to Get Off Google Authenticator &lpar;and Backup Google 2FA Codes&rpar;](http://blog.calebjay.com/posts/how-to-get-off-google-authenticator/)
 <!-- BLOG-POST-LIST:END -->
 
 
