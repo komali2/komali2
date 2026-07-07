@@ -9,11 +9,11 @@
 
 ### Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Yes, AI Will Take Your Job](http://blog.calebjay.com/posts/ai-will-take-your-job/)
 - [Death of Pastebin](http://blog.calebjay.com/posts/death-of-pastebin/)
 - [Why Framework Will Never be Forgiven](http://blog.calebjay.com/posts/moral-contagion/)
 - [Stuff You Gotta Do](http://blog.calebjay.com/posts/stuff-you-gotta-do/)
 - [How to Quit Social Media](http://blog.calebjay.com/posts/how-to-quit-social-media/)
-- [Books I Read in 2025](http://blog.calebjay.com/posts/books-2025/)
 <!-- BLOG-POST-LIST:END -->
 
 
