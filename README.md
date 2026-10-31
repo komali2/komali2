@@ -9,11 +9,11 @@
 
 ### Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [&#39;Value&#39; is Meaningless](http://blog.calebjay.com/posts/meaningless-value/)
 - [Liberation Through Technology](http://blog.calebjay.com/posts/liberation-through-technology/)
 - [We are Under Psychic Attack](http://blog.calebjay.com/posts/psychic-attack/)
 - [Yes, AI Will Take Your Job](http://blog.calebjay.com/posts/ai-will-take-your-job/)
 - [Death of Pastebin](http://blog.calebjay.com/posts/death-of-pastebin/)
-- [Why Framework Will Never be Forgiven](http://blog.calebjay.com/posts/moral-contagion/)
 <!-- BLOG-POST-LIST:END -->
 
 
